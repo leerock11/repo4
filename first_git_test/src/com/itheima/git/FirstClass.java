@@ -11,4 +11,10 @@ public class FirstClass {
         System.out.println("chenggle ");
         System.out.println("chenggle ");
     }
+    public  void test(){
+
+
+        int i=0;
+        i+=10;
+    }
 }
